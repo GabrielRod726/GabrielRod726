@@ -12,6 +12,8 @@ Sou entusiasta de tecnologia com foco em sistemas Linux e desenvolvimento em Rus
 
 ## 🛠️ Tecnologias & Ferramentas
 
+![Windows-App](https://img.shields.io/badge/Aplicativo-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Android-App](https://img.shields.io/badge/Aplicativo-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?logo=gnu-bash&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
